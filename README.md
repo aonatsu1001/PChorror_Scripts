@@ -4,15 +4,16 @@ Unreal Engine5 で3D脱出ゲームを制作しました．
 
 デモ動画とコードと投稿サイトのURLを記載しています．
 
-ブループリントで実装したので，テキストファイルにエキスポートしたものをScriptsフォルダにまとめています．
+ブループリントで実装したコードをテキストファイルにエキスポートしたものと，C++で実装したコードをScriptsフォルダにまとめています．
 
-![PChorror](https://github.com/user-attachments/assets/c9ea60b6-3aab-46bd-9d0c-d2a850cdb5cf)
+<img width="1904" height="736" alt="PChorror" src="https://github.com/user-attachments/assets/6bd390c5-2069-4950-802d-96a77aac6850" />
+
 
 # デモ動画
 
 デモ動画をYoutubeに限定公開しています．
 
-デモ動画は[こちら](https://youtu.be/P_D_AWbpv5w)
+デモ動画は[こちら](https://youtu.be/Po2CRVGavP0)
 
 
 # 投稿サイト
@@ -21,7 +22,7 @@ Unreal Engine5 で3D脱出ゲームを制作しました．
 
 ダウンロードは[こちら](https://www.freem.ne.jp/win/game/32979)
 
-現在ダウンロード数は67です．
+現在ダウンロード数は74です．
 
 
 # 注意点
